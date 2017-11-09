@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.3
+Originally-Created-By: 1.8.0_131-b11 (Oracle Corporation)
+Export-Package: groovy.servlet;version="2.4.11"
+Bundle-SymbolicName: groovy-servlet
+Bundle-Version: 2.4.11
+Bundle-ManifestVersion: 2
+Import-Package: groovy.lang;resolution:=optional,groovy.text;resolutio
+ n:=optional,groovy.util;resolution:=optional,groovy.xml;resolution:=o
+ ptional,javax.servlet;resolution:=optional,javax.servlet.http;resolut
+ ion:=optional,javax.servlet.jsp;resolution:=optional,org.codehaus.gro
+ ovy;resolution:=optional,org.codehaus.groovy.runtime;resolution:=opti
+ onal
+Created-By: 1.8.0_131 (Oracle Corporation)
+Tool: Bnd-2.1.0.20130426-122213
+Built-By: paulk
+Specification-Title: Groovy: a powerful, dynamic language for the JVM
+Specification-Version: 2.4.11
+Specification-Vendor: The Apache Software Foundation
+Implementation-Title: Groovy: a powerful, dynamic language for the JVM
+Implementation-Version: 2.4.11
+Implementation-Vendor: The Apache Software Foundation
+Bundle-Vendor: The Apache Software Foundation
+Bundle-ClassPath: .
+Eclipse-BuddyPolicy: dependent
+DynamicImport-Package: *
+
